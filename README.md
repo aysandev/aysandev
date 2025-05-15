@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Aysan 👋</h1>
 
-<!--
-**aysandev/aysandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🧠 Backend Developer | 🚀 Fast Learner | 🔍 Adaptive & Curious  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 About Me
+
+- 🎯 Passionate about building efficient and scalable backend systems  
+- 🧩 Focused on Python, Django, FastAPI, and RESTful architectures  
+- 💪 Quick to learn, eager to grow, and always improving my workflow  
+- ⚙️ Currently learning Docker, testing frameworks, and CI/CD pipelines
+
+---
+
+### 🛠️ Tech Stack
+
+```bash
+# Backend
+Python | Django | FastAPI | REST APIs
+
+# Database
+mysql | SQLite
+
+# Tools
+Git | GitHub | Linux | VS Code
+
+# Learning
+Docker | GitHub Actions | Pytest
